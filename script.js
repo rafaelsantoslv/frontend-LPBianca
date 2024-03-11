@@ -9,23 +9,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Adicione suas próprias mensagens, textos e URLs de imagem aqui
     const declarations = [
-        { title: "Declaração de Amor", message: "Você é a razão do meu sorriso. Minha vida é mais feliz com você ao meu lado.", image: "/mulher/public/FOTO1.jpeg" },
+        { title: "Declaração de Amor", message: "Você é a razão do meu sorriso. Minha vida é mais feliz com você ao meu lado.", image: "./public/FOTO1.jpeg" },
 
-        { title: "Momentos Especiais", message: "Cada momento contigo é especial. Juntos, construímos memórias que guardarei para sempre.", image: "/mulher/public/FOTO2.jpeg" },
+        { title: "Momentos Especiais", message: "Cada momento contigo é especial. Juntos, construímos memórias que guardarei para sempre.", image: "./public/FOTO2.jpeg" },
 
-        { title: "Amor Crescente", message: "Te amo mais a cada dia que passa. Nosso amor é como uma chama que nunca se apaga.", image: "/mulher/public/FOTO3.jpeg" },
+        { title: "Amor Crescente", message: "Te amo mais a cada dia que passa. Nosso amor é como uma chama que nunca se apaga.", image: "./public/FOTO3.jpeg" },
 
-        { title: "Cumplicidade Única", message: "A cumplicidade entre nós é como um segredo precioso. Nos entendemos com um olhar, e cada sorriso compartilhado é uma conexão profunda.", image: "/mulher/public/FOTO4.jpeg" },
+        { title: "Cumplicidade Única", message: "A cumplicidade entre nós é como um segredo precioso. Nos entendemos com um olhar, e cada sorriso compartilhado é uma conexão profunda.", image: "./public/FOTO4.jpeg" },
 
-        { title: "Aventuras a Dois", message: "Cada aventura ao seu lado é uma jornada inesquecível. O mundo é mais vibrante e cheio de possibilidades quando estamos juntos.", image: "/mulher/public/FOTO5.jpeg" },
+        { title: "Aventuras a Dois", message: "Cada aventura ao seu lado é uma jornada inesquecível. O mundo é mais vibrante e cheio de possibilidades quando estamos juntos.", image: "./public/FOTO5.jpeg" },
 
-        { title: "Risos Infinitos", message: "Seus risos são a trilha sonora da minha felicidade. Que possamos continuar rindo juntos e enfrentando qualquer desafio que a vida nos apresente.", image: "/mulher/public/FOTO7.jpeg" },
+        { title: "Risos Infinitos", message: "Seus risos são a trilha sonora da minha felicidade. Que possamos continuar rindo juntos e enfrentando qualquer desafio que a vida nos apresente.", image: "./public/FOTO7.jpeg" },
 
-        { title: "Promessa de Amor Eterno", message: "Prometo estar ao seu lado em todos os altos e baixos, celebrando as alegrias e enfrentando as tristezas. Nosso amor é eterno.", image: "/mulher/public/FOTO6.jpeg" },
+        { title: "Promessa de Amor Eterno", message: "Prometo estar ao seu lado em todos os altos e baixos, celebrando as alegrias e enfrentando as tristezas. Nosso amor é eterno.", image: "./public/FOTO6.jpeg" },
 
-        { title: "Sonhos Compartilhados", message: "Cada sonho que compartilhamos se torna mais real. Juntos, somos capazes de alcançar as estrelas e construir um futuro brilhante.", image: "/mulher/public/FOTO8.jpeg" },
+        { title: "Sonhos Compartilhados", message: "Cada sonho que compartilhamos se torna mais real. Juntos, somos capazes de alcançar as estrelas e construir um futuro brilhante.", image: "./public/FOTO8.jpeg" },
 
-        { title: "Abraços que Curam", message: "Seus abraços têm o poder de curar qualquer ferida. O calor do seu abraço é meu refúgio e minha fonte de conforto.", image: "/mulher/public/FOTO9.jpeg" },
+        { title: "Abraços que Curam", message: "Seus abraços têm o poder de curar qualquer ferida. O calor do seu abraço é meu refúgio e minha fonte de conforto.", image: "./public/FOTO9.jpeg" },
 
 
     ];
