@@ -27,6 +27,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
         { title: "Abraços que Curam", message: "Seus abraços têm o poder de curar qualquer ferida. O calor do seu abraço é meu refúgio e minha fonte de conforto.", image: "./public/FOTO9.jpeg" },
 
+        { title: "O Brilho dos Seus Olhos", message: "Seus olhos são como estrelas que iluminam minha vida. Cada olhar é um momento de amor e carinho que guardo no coração.", image: "./public/FOTO10.jpeg" },
+
+        { title: "Amor Inabalável", message: "Nosso amor é forte e inabalável, resistindo a qualquer tempestade. Juntos, somos invencíveis e prontos para enfrentar qualquer desafio.", image: "./public/FOTO11.jpeg" },
+
+        { title: "Melodia do Coração", message: "Seu amor é a melodia que toca em meu coração. Cada nota, cada acorde, é uma expressão de tudo o que sinto por você.", image: "./public/FOTO12.jpeg" }
+
+
 
     ];
 
